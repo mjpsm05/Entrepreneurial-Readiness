@@ -2,3 +2,4 @@ streamlit
 pandas
 xgboost
 huggingface_hub
+scikit-learn
