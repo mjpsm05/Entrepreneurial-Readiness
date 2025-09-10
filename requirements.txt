@@ -3,3 +3,4 @@ pandas
 xgboost
 huggingface_hub
 scikit-learn
+gradio-client
